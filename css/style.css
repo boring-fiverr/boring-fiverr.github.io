@@ -22,6 +22,10 @@ body.light a {
   background-color: #ffffff;
   color: #181818;
 }
+body.light button{
+	background-color: #ffffff;
+  	color: #181818;
+}
 .home-banner {
 	background-image: url(/images/bg-city.png);
 	background-repeat: no-repeat;
@@ -311,6 +315,21 @@ a[data-toggle="collapse"] {
 .community ul{
 	font-size: 19px;
 	line-height: 40px;
+}
+.read-more{
+	background-color: #181818;
+	border: 1px solid #02D2D6;
+	box-sizing: border-box;
+	border-radius: 40px;
+	padding: 10px 40px;
+}
+.btn-text{
+	font-weight: 500;
+	font-size: 16px;
+}
+.resources-text{
+	font-size: 14px;
+	line-height: 20px;
 }
 .checkbox {
 	opacity: 0;
